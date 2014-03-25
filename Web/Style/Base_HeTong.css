@@ -1,0 +1,91 @@
+﻿
+.bg_A{ background-image:url(../Images/add.png); background-repeat:no-repeat; padding-left:20px;}
+.tbHetong
+{
+    border:solid 1px gray;
+    width:100%
+    }
+  .tbHetong .td1
+  {
+      width:50px;
+      }
+.tbHetong .td3
+{
+    text-align:right;
+    width:140px;
+    }
+.tbHetong .td4,.tbHetong .td5,.tbHetong .td6
+{
+    text-align:right;
+    width:115px;
+    }
+.tbHetong .td7,.tbHetong .td8{ width:80px;text-align:center;}
+.tbHetong .td9{ width:70px; text-align:center;}
+.tbHetong .td10{ width:65px; text-align:center;}
+.tbHetong .td11{ width:60px;}
+.bgHeader
+{
+    background-image:url(../Images/headerBg2.jpg);
+    color:White;
+    
+    height:35px
+    }
+
+    .divPageSize
+    {
+        text-align:center;
+        margin:15px;
+        }
+  .divAll
+  {
+      clear:both;
+      margin-top:7px;
+      }
+  .opation
+  {
+      display:none;
+      }
+  .mouseover .opation
+  {
+      display:block;
+      }
+  
+  .ZX_h
+  {
+      background-image:url(../Images/bg3.png);
+      background-repeat:no-repeat;
+      background-position:left bottom;
+       padding:5px 0px;
+      }
+
+ 
+  .ZX_con
+  {
+      padding:8px 5px 15px 15px;
+      }
+  .divZX_name
+  {
+      text-align:center;
+      }
+  .ZX_name
+  {
+       padding:2px 15px;
+       border:1px solid #BBE1F1;
+       background-color:#F4D8BE;
+      }
+      .tabsP
+      {
+          padding:10px;
+          background-color:White;
+          height:100%;
+          }
+ .tabsContent
+ {
+     clear:both;
+     height:auto;
+     overflow:hidden;
+     background-color:White;
+     
+     }
+
+.wid1{ width:115px}

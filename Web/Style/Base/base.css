@@ -1,0 +1,129 @@
+﻿body{
+	font-family:"宋体",Arial,Helvetica,sans-serif;
+	font-size:14px;
+	color:#333333;
+}
+.fl{
+    float:left;
+}
+
+.fr{
+    float:right;
+}
+.w46
+{
+    width:46%;
+    }
+.mr20{
+	margin-right:20px;
+}
+.m10{ margin:10px;}
+.ulnone,.ulnone2
+{
+    list-style:none;
+    margin:0px;
+    padding:0px;
+    }
+.ulnone li
+{
+    float:left;
+    }
+.loading
+{
+    margin:10px auto;
+    }
+ .hid
+ {
+     display:none;
+     }
+ .mon
+ {
+     text-align:right;
+     }
+
+.search 
+{
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    }
+.tbComm .txtSel{ width:80%}
+.tbComm .half
+{
+    width:46%;
+    }
+ .tbComm ._half
+{
+    width:43%;
+    }
+.bg1
+{
+    background-color:#F3FAFF;
+    }
+    .mouseover
+  {
+      background-color:#fdfbb8;
+      color:Black;
+      }
+     .rowBottom
+     {
+         background-color:#D3E3ED;
+         color:Yellow;
+         font-weight:bold;
+         }
+         .tbComm{
+    BORDER-COLLAPSE: collapse
+}
+.tbComm .td1{
+     background-color:#F3FAFF;
+	
+     text-align:left;
+	 width:170px;
+}
+.tbComm .td2{
+	
+}
+.tbComm td{
+	border:solid 1px #BBE1F1;
+}
+.tbComm input,.tbComm select,.tbComm textarea{ width:95%;}
+.tbComm textarea{height:35px;}
+.div_left{ float:left; width:200px;border:1px dotted gray; padding:5px;}
+.div_left .cl_title{ background-color:gray;}
+.div_mid{ float:left; width:10px; }
+.div_right{ float:left; width:200px; border:1px dotted green;padding:5px;}
+.div_right .cl_title{ background-color:green;}
+.cl_title
+{
+    text-align:center;
+    color:White;
+    
+    }
+.divPopCol
+{
+    width:440px;
+    margin:15px auto;
+    }
+     .ZX_title
+  {
+      color:#4282ec;
+      font-size:17px;
+      }
+      
+   .ZX_title2
+  {
+      color:#4182ec;
+      font-size:17px;
+      font-weight:bold;
+      }
+.ZX_h2 {
+    background-image: url("../../Images/bg3_3.png");
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    clear: both;
+    padding: 5px 0;
+}
+ .cc
+ {
+     width:98%;
+     float:right;
+     }

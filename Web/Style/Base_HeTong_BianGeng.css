@@ -1,0 +1,13 @@
+﻿.tab
+{
+    BORDER-COLLAPSE: collapse;
+    }
+.tab .header
+{
+    background-image:url('../Images/bg4.png');
+    text-align:center;
+    
+    }
+ .tab td {
+    border: 1px solid #BBE1F1;
+}
